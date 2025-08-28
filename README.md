@@ -1,4 +1,4 @@
-# conceptNet-el
+# ConceptNet-el
 ConceptNet-el version 2.1.0 (last update: 2025-07-08) is a computational lexicon of Modern Greek that is conceptually organised as a linguistic ontology. It currently comprises c. 34,5K tokens (i.e., unique instances of meaning and form combination). In the latest version of the lexicon, prepositions and conjunctions have also been included. Both single- and multi-word entries are included in the lexicon. These are specified for (a) features on lexical-semantic relations (i.e, synonymy, antonymy); (b) lexical relations such as word families, allomorphs, syntactic variants, etc.; (c) morphosyntactic properties (PoS, gender, declension, argument structure, word-specific information, etc.), and (d) morphosemantic relations. Properties of lexical entries have been encoded as attribute-value pairs. The work has received funding from two national projects, namely POLYTROPON (KRIPIS-GSRT, MIS: 448306), DRASIS, and "AIO IEL –Strategic Planning and Infrastructures of ILSP" projects; it has also received internal funds from ILSP.  The lexicon is being extended and enriched.
 
 If you use the resource, please cite it as:
